@@ -14,4 +14,4 @@ L1, L2, ridge, lasso
 
 ------------------------
 X[[0]] 이것은 행을 의미. ---> 이것과 관련된 약속들 정리  
-confusion matrix 암기법
+confusion matrix
