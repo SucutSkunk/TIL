@@ -35,4 +35,5 @@ claude 프롬프트 작성법 - Role, Instruction, Constraint, Output Format
 A/B 테스트에서 유의성 검정 후, 비즈니스적으로 유효한지 검토하는 것 외에 가드레일 지표도 확인해야한다.    
 ROC-AUC 개념  
 로지스틱 회귀 개념
+K-Medoids vs K-Medians  
 ----------------------------
